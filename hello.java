@@ -1,5 +1,5 @@
 public class hello {
     public static void main(String[] args) {
-        System.out.print("Hello World"); // Thiếu xuống dòng
+        System.out.print("Hello World");
     }
 }
